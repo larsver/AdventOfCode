@@ -1,8 +1,7 @@
-
 f = open("input.txt")
-vorige = 0 ;
-huidige = 0 ;
-teller = 0 ;
+vorige = 0 
+huidige = 0 
+teller = 0 
 for diepte in f:
   huidige = int(diepte) ;
       
